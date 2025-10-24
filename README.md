@@ -6,7 +6,7 @@ The project has:
 - .loc to filter the data set to a genre, and store it in a new variable.
 - Calculates the min, max, mean, and median of a column.
 - Prints how the min, max, mean, and median compare to your favorite movie's value.
-- A histogram and use a print statement that describes it.
+- A histogram and a print statement that describes it.
 - A scatter plot and a print statement that describes the relationship between two variables.
 
 
